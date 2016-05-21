@@ -71,9 +71,9 @@
 						-->
 						<footer>
 							<ul class="icons">
-								<li><a href="https://en.wikipedia.org/wiki/Troy_(film)" title="Wikipedia" target="_blank" class="fa-wikipedia-w">Wikipedia</a></li>
-								<li><a href="http://www.imdb.com/title/tt0332452/" title="IMDb" target="_blank" class="fa-film">IMDb</a></li>
-								<li><a href="http://www.rottentomatoes.com/m/troy/" title="Rotten Tomatoes" target="_blank" class="fa-star-o">Rotten Tomatoes</a></li>
+								<li><a href="https://www.instagram.com/annahortonx" title="Instagram" target="_blank" class="fa-instagram">Instagram</a></li>
+								<li><a href="https://www.snapchat.com/add/annahortonx" title="Snapchat" target="_blank" class="fa-snapchat-ghost">Snapchat</a></li>
+								<li><a href="http://www.facebook.com/anna.horton.750" title="Facebook" target="_blank" class="fa-facebook">Facebook</a></li>
 							</ul>
 						</footer>
 					</section>
@@ -95,6 +95,18 @@
 					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
 					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
 				}
+			</script>
+			
+			<script type="text/javascript">
+				if ( window.addEventListener ) {  
+					var state = 0, konami = [38,38,40,40,37,39,37,39,66,65];  
+					window.addEventListener("keydown", function(e) {  
+						if ( e.keyCode == konami[state] ) state++;  
+						else state = 0;  
+						if ( state == 10 )  
+      						alert("Don't suppose you'd like to go to prom with me?");
+					}, true);  
+				}  
 			</script>
 
 	</body>
