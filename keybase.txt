@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/callow
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://edwardcallow.co.uk
+  * I am callow (https://keybase.io/callow) on keybase.
+  * I have a public key with fingerprint 669D C158 FA70 0605 45C3  54E6 96CB 5DB1 12F8 9460
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014edd73af620e19e9db410233b7355c8e0dc1073a4171fd78690e4b311ff9c8210a",
+            "fingerprint": "669dc158fa70060545c354e696cb5db112f89460",
+            "host": "keybase.io",
+            "key_id": "96cb5db112f89460",
+            "kid": "01014edd73af620e19e9db410233b7355c8e0dc1073a4171fd78690e4b311ff9c8210a",
+            "uid": "c3b35b7a77dd279d52cd60119fd6db19",
+            "username": "callow"
+        },
+        "service": {
+            "hostname": "edwardcallow.co.uk",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485795096,
+    "expire_in": 157680000,
+    "prev": "2e1761240b854c474cdade797bc433ebd708052b2daa9afdfcf4a45d5919eb99",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1QFVUYxy9ixEsZykRKlrAM0jQEe/b1LohMBNEkUoohXDDa3XMWFy53L/cu
+b4oiDBk3AgkpHVGRGSIpGYGSwsDI0XAGFAk0h4Q0LSRoLLmNXGawdsm+9bHz5cx5
+nt///7zMqX3c3eDt9uHAto4Vc/VvuQ1MCYbUfcrTOzFBgcVY5E4sBy1eyAyRXc3M
+kSEWieEABxSCkCV5iSFwBDjEQYECOEGSAkvStGhEOBQBrgEUYIEEWSPD4YgSSAAk
+iRONBMB5LAyTZEsWslltskXVbBmG00S0UeJZHGdwmqJFkqYQwzGiQEMBAEIychSD
+a8Ltil1XaM0JvB2Fy4oW0x6Zi+39B/8/952/aCeSAkkLLM+yEBIsB2lChAwOACdB
+RivP6aAd2Sx8LtJp3mxWCrFdYZgWK5BFpK9Vn+NhHsFC3gb/ocJFJTw/R9NbbYqq
+iIpZy29XVas9UterxVZdUIiEzIdWmYJsgdouNUUBstllxYJFAo0UVVn3BpSRZjka
+55gwDBVZZRvKlHWCZhkjrh29DirQLAkEMlgGEBQuGGlKpFhKhDxELMcKIkWSSIAs
+bsRpQiAgz3O8BCVRoniKhjSn7VLg9JHtKM+iYJFaKZXP0jztcpaFV/NtCNvl7Viy
+eqnBzdvg8cgS/ZcZvL18//164/FPPFgHPsjLvhb90/4fuZBYc7Vy6q/Kj8rDf/ji
+m0CTV8kZzOEZe+9I/KW2vclHbyT6+B2m/O+uHS7ZNk9UbSyt3pxw2bfDP6Pl8/6R
+gMv1w1zMYGgdKitP7g+s/OqA31hEx5bRnw/1n22PeOmY6snW9WW9OR6zbJkza2rH
+xx1t43tN5V3XUmoiAjw+saz1G52XprGkhLO/uVJuN76y7+b8rZmr/lF7jgxO9jhq
+00eo3cXfhZYm3jh5YmVC+x/Lb7u/M2NoT25dM93ct1G+1Cy92puQ31K0sP7J5wKu
+3+++a91U53IuNJ0jSu982+N9elP88okdA0nY3MmmnF+DfzEZ+lwHmPeSTE68Ifn6
+JD1dNJR0taIvuu7d0InzZ6jq81+P52bU34qrBaENs8bgDQ714Drf/Jtj4h2Wipp1
+1bzQnTzZm94f189XPWq5X9XSRviQWPZg2JXJ4klT56rPtl5Jc0xXugYOgqmhka5n
+W3xG77ljUYce9Pad23388KnRpNfWz9r3HHu+u4cmfm+oSPQMaXQsJDxVs+bFlJIN
+cvRcme+fR1//vuL9VGhadeHEmA97fCBkZchUbmxQDfSZGUq7+FhTttjq8rjw5eYY
+U1XA6eA2j4nWoNSu9mG80/zGiv3NQVucpreb057xXx011Sb0JHqlX9yaFuAX11UW
+al/6qTNPDjQ3dk64RQ87X/4b
+=tmzR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/callow
+
+==================================================================
